@@ -1,0 +1,6 @@
+                                                                                                                      standard deviation
+
+        image                                                                               step order     10     15     20     30     50     80    100
+D:\Researching\myWorks\LWNNA\mat\DemoCode\images\Cameraman256.png                              2     9  36.88  33.25  34.40  30.62  30.02  28.20  26.36
+
+D:\Researching\myWorks\LWNNA\mat\DemoCode\images\Cameraman256.png                             20     9  28.10  24.51  23.89  23.22  23.60  21.48  22.61
